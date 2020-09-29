@@ -1,0 +1,51 @@
+body,html{
+     
+    background-image: url("bacg.jpg");
+    background-position: center;
+    height: 100%;
+    background-size: cover;
+    
+}
+body{font-family: 'Montserrat',sans-serif;}
+hr{
+    max-width: 65px;
+    border-width: 3px;
+    border-color: #F05F44;
+    }
+h1{
+    color: thistle;
+    text-align: center;
+    margin-top: 30px;
+}
+header.startup{
+    
+}
+header.startup hr{
+    margin-top: 200px;
+    margin-bottom: 30px;
+
+}
+
+.btn{
+    font-weight:700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    margin-top: 40px;
+    
+}
+.faded{
+
+    color:rgba(255,255,255,0.8)
+}
+
+.btn-xl{
+    padding:1rem 2rem;
+}
+.btn-primary:hover{
+    background-color: #fff;
+    border-color: #fff;
+    
+}
+.btn-text:hover{
+    color: blue;
+}
